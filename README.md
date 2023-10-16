@@ -1,4 +1,4 @@
-# Fraktale w CPP
+# Projekt studencki - Fraktale w CPP
 
 ### Dywan Sierpińskiego oraz Płatek Kocha
 
